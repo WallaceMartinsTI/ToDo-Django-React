@@ -2,7 +2,7 @@
 
 ## Descrição 
 
-Projeto cumprido seguindo o tutorial do site <https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react>
+Projeto cumprido seguindo o tutorial do site <br> <https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react>
 
 ## Informações
 
@@ -41,6 +41,8 @@ Navegue até a pasta **frontend** e use o comando:
 ~~~javascript
 npm start
 ~~~
+
+O frontend irá rodar em <http://localhost:3000>
 
 ## Considerações Finais
 
